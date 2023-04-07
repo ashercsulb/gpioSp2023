@@ -1,0 +1,26 @@
+{
+  "name": "gpiosp2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashercsulb/gpioSp2023.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashercsulb/gpioSp2023/issues"
+  },
+  "homepage": "https://github.com/ashercsulb/gpioSp2023#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "pg": "^8.10.0"
+  }
+}

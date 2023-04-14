@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'pgioSp2023'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DD199B33C0614346BA4E8271A4E43722 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DB81A077C6C04309A3740E4CAA602B21 }}
           package: .
